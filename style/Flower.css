@@ -1,0 +1,46 @@
+.btn-primary{
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+}
+.First{
+    display: flex;
+width: 708px;
+flex-direction: column;
+flex-shrink: 0;
+color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.banner{
+    display: flex;
+    width: 1920px;
+height: 850px;
+flex-shrink: 0;
+background: rgba(229, 84, 115, 0.10);
+align-items: center;
+justify-content: space-around;
+
+    
+
+}
+.banner .first-img{
+    width: 635px;
+height: 800px;
+flex-shrink: 0;
+
+}
+.first-p{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
