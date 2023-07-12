@@ -1,3 +1,7 @@
+body
+{
+
+}
 .btn-primary{
     border-radius: 8px;
     background: #E55473;
@@ -98,7 +102,117 @@ background: rgba(71, 125, 17, 0.15);
 
 }
 .fk{
-    width: 1920px;
-height: 4867px;
+
 background: #FFF;
+}
+.fl{
+    width: 1922px;
+height: 620px;
+flex-shrink: 0;
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+display: flex;
+align-items: center;
+justify-content: space-around;
+
+
+}
+.h-t{
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.p-t{
+    display: flex;
+width: 594px;
+flex-direction: column;
+flex-shrink: 0;
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.b-t{
+border-radius: 8px;
+background: #E55473;
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+display: flex;
+
+}
+.fj{
+   
+background: #FFF;
+
+}
+.h-f{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.p-f{ 
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    justify-content: space-evenly;
+    margin-right: auto;
+
+    }
+.img-f{
+    display: flex;
+    gap: 5px;
+}
+
+.k{
+  color: #FFFFFF;
+}
+.img-n{
+    margin-top: 30px;
+}
+.h-fi{
+    font-weight: 259px;
+    height: 58px;
+    align-items: center;
+
+}
+.s-fi{
+    color: #E55473;
+    text-align: center;
+    font-family: Lato;
+    font-size: 48px;
+    width: 259px;
+    height: 58px;
+}
+.d-fi{
+    font-weight: 1922px;
+    height: 449px;
+    background: black;
+    align-items: center;
+    text-align: center;
+    padding-top: 48px 58px;
+    font-display: 5px 10px;
+}
+.p-fi{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+.sm-fi{
+    color: rgba(255, 255, 255, 0.961);
+    text-align: center;
 }
